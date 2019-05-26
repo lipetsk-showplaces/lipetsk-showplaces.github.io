@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: b9158575.beget.tech
+Sitemap: http://b9158575.beget.tech/sitemap.xml
