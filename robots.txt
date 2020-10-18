@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
-Host: b9158575.beget.tech
-Sitemap: http://b9158575.beget.tech/sitemap.xml
+Disallow: /it2020/
+Host: lipetsk-showplaces.github.io
+Sitemap: http://lipetsk-showplaces.github.io/sitemap.xml
