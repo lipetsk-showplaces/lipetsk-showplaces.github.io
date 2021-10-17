@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /it2020/
+Disallow:
 Host: lipetsk-showplaces.github.io
 Sitemap: http://lipetsk-showplaces.github.io/sitemap.xml
