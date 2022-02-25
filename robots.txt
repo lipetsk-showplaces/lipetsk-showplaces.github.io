@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /IT2021
+Disallow: /app2022
 Host: lipetsk-showplaces.github.io
 Sitemap: http://lipetsk-showplaces.github.io/sitemap.xml
